@@ -75,6 +75,10 @@ Destination port. Default: 8000
 Logfile write out.
 #### `--url`
 Overide URL for destination server.
+#### `--exec`
+Specify a process to proxy instead.
+#### `-h`
+Show help.
 #### Add `x-destination-url` into headers request
 Overide all arguments above
 Example 
