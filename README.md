@@ -11,10 +11,11 @@ Completed:
 * [x] Required: The destination server is configurable via the `x-destination-url` header
 * [x] Required: Client requests and respones are printed to stdout
 * [x] Required: The `--log` argument outputs all logs to the file specified instead of stdout
-* [] Optional: The `--exec` argument proxies stdin/stdout to/from the destination program
+* [x] Optional: The `--exec` argument proxies stdin/stdout to/from the destination program
 * [] Optional: The `--loglevel` argument sets the logging chattiness
 * [] Optional: Supports HTTPS
-* [] Optional: `-h` argument prints CLI API
+* [x] Optional: `-h` argument prints CLI API
+* [x] Optional: Styleing the log
 
 
 ###Walkthrough Gif:
